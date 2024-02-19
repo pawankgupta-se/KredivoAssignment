@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">KredivoAssignment</string>
+    <string name="topup">Top Up</string>
+    <string name="purchase">Purchase</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="payment_details_label">Payment Details</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="pay_in_days">Pay in %1$s days</string>
+    <string name="voucher_label">Voucher</string>
+    <string name="yeay_you_got_discount_max">Yeay! You got %1$s discount max %2$s</string>
+    <string name="discount_up_to">Discount up to %1$s</string>
+    <string name="kredivo_pin">Kredivo PIN</string>
+    <string name="by_continuing_i_agree_with">By continuing, I agree with</string>
+    <string name="pay_button_text">Pay</string>
+    <string name="order_details_label">Order Details</string>
+    <string name="status">Status</string>
+    <string name="order_id">Order ID</string>
+    <string name="message_for_transaction_fail">If you have problem with your transaction, make sure to contact our customer service at</string>
+    <string name="kredivo_support_phone">0807-1-537-348</string>
+    <string name="kredivo_support_email">support@kredivo.com</string>
+    <string name="ok_button_text">Ok</string>
+    <string name="use">Use</string>
+    <string name="kredivo_discount">Kredivo discount</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="pin">Pin</string>
+</resources>
